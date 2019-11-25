@@ -1,2 +1,2 @@
-# RestaurantFind V.1
+# RestaurantFinder V.1
 
